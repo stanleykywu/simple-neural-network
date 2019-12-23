@@ -41,5 +41,5 @@ for iteration in range(20000):
 print('Synaptic weights after training')
 print(synaptic_weights)
 
-print('Outputs after training ')
+print('Outputs after training:)))) ')
 print(outputs)
